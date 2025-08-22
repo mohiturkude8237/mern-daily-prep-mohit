@@ -32,7 +32,7 @@ const student = {
   subjects: {
     math: 85,
     physics: 90,
-    electronics: 80
+    electronics: 
   }
 };
 
